@@ -25,3 +25,5 @@ It should be able to:
 ![Password Generator - Google Chrome 1_15_2023 12_17_28 AM](https://user-images.githubusercontent.com/92087695/212501251-e092ae63-273d-4a94-a44d-4a3ceaa114bd.png)
 ![Password Generator - Google Chrome 1_15_2023 12_17_12 AM](https://user-images.githubusercontent.com/92087695/212501253-0c81f10d-55c0-451d-960a-4f27e80bbf74.png)
 ![Password Generator - Google Chrome 1_15_2023 12_17_16 AM](https://user-images.githubusercontent.com/92087695/212501254-bc527d05-5e8b-4ed8-b5f9-b1d009310b24.png)
+
+Link to the deployed site: https://ohiajanny.github.io/Password-Generator/
