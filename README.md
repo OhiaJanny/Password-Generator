@@ -21,10 +21,7 @@ It should be able to:
 
 
 
- ![Password Generator - Google Chrome 1_15_2023 12_08_17 AM](https://user-images.githubusercontent.com/92087695/212501141-c4f1bef8-de09-4d74-81c3-c9d308ab8e80.png)
 
-
-![Password Generator - Google Chrome 1_15_2023 12_08_26 AM](https://user-images.githubusercontent.com/92087695/212501148-6eaf55dd-f0f9-4f68-a31a-71677da802eb.png)
-
-
-![Password Generator - Google Chrome 1_15_2023 12_08_36 AM](https://user-images.githubusercontent.com/92087695/212501154-a314976f-4c2d-4d16-8dca-eb8632089e6f.png)
+![Password Generator - Google Chrome 1_15_2023 12_17_28 AM](https://user-images.githubusercontent.com/92087695/212501251-e092ae63-273d-4a94-a44d-4a3ceaa114bd.png)
+![Password Generator - Google Chrome 1_15_2023 12_17_12 AM](https://user-images.githubusercontent.com/92087695/212501253-0c81f10d-55c0-451d-960a-4f27e80bbf74.png)
+![Password Generator - Google Chrome 1_15_2023 12_17_16 AM](https://user-images.githubusercontent.com/92087695/212501254-bc527d05-5e8b-4ed8-b5f9-b1d009310b24.png)
